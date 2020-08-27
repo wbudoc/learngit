@@ -4,3 +4,5 @@ git is a free software
 git has a mutable index called stage
 
 we will study git now
+
+Creating a new branch is quick.
